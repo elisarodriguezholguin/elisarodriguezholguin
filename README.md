@@ -47,7 +47,7 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 
 ### 🟢 Programa para Registro de clientes compras y venta de productos
  **Repositorio 2** https://github.com/elisarodriguezholguin/registro-clientes
------
+
 
 ## 📊 Aptitudes Técnicas
 - Maquetación y desarrollo frontend con HTML,
