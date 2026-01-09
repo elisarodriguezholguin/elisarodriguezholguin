@@ -1,4 +1,4 @@
-Soy Elisa Rodriguez 👋
+Hola mucho gusto soy Elisa Rodriguez!!! 👋
 # 👨‍💻 Ingeniero en Sistemas de Información
 
 Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e implementación de aplicaciones web, enfocada en la creación de interfaces funcionales, escalables y orientadas a la experiencia de usuario (UX/UI). He trabajado en la construcción de vistas dinámicas, integración de componentes frontend con lógica backend y mejora continua de funcionalidades existentes.
