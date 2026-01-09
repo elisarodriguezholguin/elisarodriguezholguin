@@ -75,7 +75,8 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 
 ## 📫 Contacto
 
-📍 Ecuador  
+📍 Ecuador 
+ **Contacto:**  0959741206
 💼 Disponible para roles en **Desarrollo**, **Data / Analítica** y **Tecnología**  
 
 ---
