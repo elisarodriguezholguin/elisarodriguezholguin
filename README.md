@@ -40,6 +40,14 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vue.js 3](https://img.shields.io/badge/Vue.js%203-35495E?logo=vue.js&logoColor=4FC08D)
 
+-----
+## ⭐ Proyectos Destacados
+### 🟢 App web para registrar, editar y visualizar sus entrenamientos de manera intuitiva y en tiempo real.
+**Repositorio 1** https://github.com/elisarodriguezholguin/prueba-tecnica-vue
+
+### 🟢 Programa para Registro de clientes compras y venta de productos
+ **Repositorio 2** https://github.com/elisarodriguezholguin/registro-clientes
+-----
 
 ## 📊 Aptitudes Técnicas
 - Maquetación y desarrollo frontend con HTML,
