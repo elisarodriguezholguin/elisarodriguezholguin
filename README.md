@@ -1,5 +1,5 @@
 Hola mucho gusto soy Elisa Rodriguez!!! 👋
-# 👨‍💻 Ingeniero en Sistemas de Información
+# 👨‍💻 Ingeniero en Sistemas de Información || Desarrollador Full Stack
 
 Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e implementación de aplicaciones web, enfocada en la creación de interfaces funcionales, escalables y orientadas a la experiencia de usuario (UX/UI). He trabajado en la construcción de vistas dinámicas, integración de componentes frontend con lógica backend y mejora continua de funcionalidades existentes.
 
@@ -29,8 +29,17 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 - Visual Studio Code
 - NetBeans
 - Git / GitHub
+----------------------------
+## 📊 Tecnologias que uso 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+## 📊 Frameworks -librerias
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vue.js 3](https://img.shields.io/badge/Vue.js%203-35495E?logo=vue.js&logoColor=4FC08D)
 
----
 
 ## 📊 Aptitudes Técnicas
 - Maquetación y desarrollo frontend con HTML,
