@@ -2,9 +2,7 @@ Hola mucho gusto soy Elisa Rodriguez!!! 👋
 # 👨‍💻 Ingeniero en Sistemas de Información || Desarrollador Full Stack
 
 Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e implementación de aplicaciones web, enfocada en la creación de interfaces funcionales, escalables y orientadas a la experiencia de usuario (UX/UI). He trabajado en la construcción de vistas dinámicas, integración de componentes frontend con lógica backend y mejora continua de funcionalidades existentes.
-
----
-
+--------------------------------------------------------------------------------------------------------------------
 ## 🚀 Áreas de Enfoque
 
 - Desarrollo Web (Frontend y Backend)
@@ -12,9 +10,16 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 - Optimización y Mejora Continua
 - Arquitectura Cliente–Servidor
 - Analítica Descriptiva y Exploratoria
+---------------------------------------------------------------------------------------------------------------------
+## ⭐ Proyectos Destacados 
+### 🟢 Proyecto web desarrollado para la gestión de productos tipo perchas, enfocado en frontend y estructura web.
+**Repositorio 1:** https://github.com/elisarodriguezholguin/web-perchas-tt-2024
+### 🟢 App web para registrar, editar y visualizar sus entrenamientos de manera intuitiva y en tiempo real.
+**Repositorio 2:** https://github.com/elisarodriguezholguin/prueba-tecnica-vue
+### 🟢 Programa para Registro de clientes compras y venta de productos
+ **Repositorio 3:** https://github.com/elisarodriguezholguin/registro-clientes
 
-
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -41,14 +46,6 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 ![Vue.js 3](https://img.shields.io/badge/Vue.js%203-35495E?logo=vue.js&logoColor=4FC08D)
 
 -----
-## ⭐ Proyectos Destacados 
-### 🟢 
-**Repositorio 1** https://github.com/elisarodriguezholguin/web-perchas-tt-2024
-### 🟢 App web para registrar, editar y visualizar sus entrenamientos de manera intuitiva y en tiempo real.
-**Repositorio 2** https://github.com/elisarodriguezholguin/prueba-tecnica-vue
-### 🟢 Programa para Registro de clientes compras y venta de productos
- **Repositorio 3** https://github.com/elisarodriguezholguin/registro-clientes
-
  
 ## 📊 Aptitudes Técnicas
 - Maquetación y desarrollo frontend con HTML,
