@@ -6,7 +6,6 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 ## 🚀 Áreas de Enfoque
 
 - Desarrollo Web (Frontend y Backend)
-- Análisis de Datos y Procesos de Negocio
 - Optimización y Mejora Continua
 - Arquitectura Cliente–Servidor
 - Analítica Descriptiva y Exploratoria
@@ -38,6 +37,7 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 - Visual Studio Code
 - NetBeans
 - Git / GitHub
+- Postman
 ----------------------------
 ## 📊 Tecnologias que uso 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
