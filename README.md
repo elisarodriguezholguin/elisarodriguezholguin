@@ -13,14 +13,16 @@ Desarrolladora de sistemas web con experiencia en el diseño, desarrollo e imple
 ## ⭐ Proyectos Destacados 
 ### 🟢 Proyecto web desarrollado para la gestión de productos tipo perchas, enfocado en frontend y estructura web.
  **Repositorio 1:** https://github.com/elisarodriguezholguin/web-perchas-tt-2024
+### 🟢 Proyecto Web Registro de Clientes activos e inactivo
+ **Repositorio 2:** https://github.com/elisarodriguezholguin/empleados-frontend
 ### 🟢 App web para registrar, editar y visualizar sus entrenamientos de manera intuitiva y en tiempo real.
- **Repositorio 2:** https://github.com/elisarodriguezholguin/prueba-tecnica-vue
+ **Repositorio 3:** https://github.com/elisarodriguezholguin/prueba-tecnica-vue
 ### 🟢 Programa para Registro de clientes compras y venta de productos
- **Repositorio 3:** https://github.com/elisarodriguezholguin/registro-clientes
+ **Repositorio 4:** https://github.com/elisarodriguezholguin/registro-clientes
 ### 🟢 Buscador de GIFs rápido y sencillo desarrollado con tecnologías web modernas.
- **Repositorio 4:** https://github.com/elisarodriguezholguin/03-gifs-app
+ **Repositorio 5:** https://github.com/elisarodriguezholguin/03-gifs-app
 ### 🟢 Interfaz frontend de un blog de café 
- **Repositorio 5:** https://github.com/elisarodriguezholguin/blogdecafe_fin
+ **Repositorio 6:** https://github.com/elisarodriguezholguin/blogdecafe_fin
  
 ------------------------------------------------------------------------------------------------------------------------
 
